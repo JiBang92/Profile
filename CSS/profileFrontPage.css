@@ -1,0 +1,62 @@
+.topBanner {
+    text-align: center;
+    font-size: 30px;
+    border: 7px inset;
+    border-color: rgb(0, 0, 0);
+    border-radius: 15px;
+    margin-bottom: 15px;
+    font-family: 'Alegreya SC';
+}
+.profImg {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid rgb(0, 0, 0);
+}
+.aboutMe {
+    display: inline-block;
+}
+.aboutMe h2 {
+    font-size: 50px;
+    line-height: 0px;
+    font-family: 'Amarante';
+}
+.aboutMe h3 {
+    font-size: 25px;
+    line-height: 0px;
+    font-family: 'Amarante';
+}
+.aboutMe p {
+    font-size: 20px;
+    font-weight: bold;
+}
+.bodyPictures h3 {
+    font-size: 35px;
+    font-weight: bold;
+}
+.bodyPictures img {
+    width: 100%;
+    border: 5px solid rgb(0, 0, 0);
+}
+.flex-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: center;
+}
+body {
+    background: linear-gradient(silver, white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    border-style: double;
+    border-width: thick;
+    border-radius: 12px;
+    padding: 5px;
+    border-color: rgb(0 0 0 );
+}
+hr {
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
